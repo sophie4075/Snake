@@ -5,4 +5,4 @@ This is my first larger project and my first video game. I built this game based
 
 Music:
 Start/Game Over Menu: 8 Bit Nostalgia - by David Renda via https://www.fesliyanstudios.com/
-Pause Menu: Local Forecast – Elevator by Kevin MacLeod
+Pause Menu: Local Forecast – Elevator by Kevin MacLeod via https://www.fesliyanstudios.com/
