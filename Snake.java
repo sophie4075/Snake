@@ -147,23 +147,6 @@ public class Snake {
         }
 
 
-        /*try {
-            System.out.println(tail);
-            System.out.println(body.length);
-        tail = (tail - 1) % body.length;
-        body[tail] = newBodyPiece;
-
-        } catch (Exception e){
-            e.printStackTrace();
-            System.out.println(body.length);
-            System.out.println(tail);
-            System.out.println((tail - 1));
-            System.out.println((tail - 1) % body.length);
-            //tail = 0;
-            tail = ((tail % body.length) + body.length) % body.length;
-            body[tail] = newBodyPiece;
-        }*/
-
     }
 
     public boolean intersectingWithRect(Rectangle item){
