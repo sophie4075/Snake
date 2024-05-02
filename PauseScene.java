@@ -52,6 +52,7 @@ public class PauseScene extends Scene {
                 pauseMusic.stop();
                 Window.window.changeState(4);
                 GameScene.getGameMusic().play();
+                GameScene.getGameMusic().clip.loop(Clip.LOOP_CONTINUOUSLY);
             }
 
         } else {
