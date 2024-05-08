@@ -38,6 +38,7 @@ After starting the game, use the arrow keys to control the direction of the snak
 
 ## Acknowledgments
 - Thanks to Gabe from GamesWithGabe: https://www.youtube.com/c/GamesWithGabe for providing a great tutorial with good explenations! :)
+
 Music Credits <3 :
 - Start/Game Over Menu: 8 Bit Nostalgia - by David Renda via https://www.fesliyanstudios.com/
 - Game Scene: Arcade Kid - by David Renda via https://www.fesliyanstudios.com/
