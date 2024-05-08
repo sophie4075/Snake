@@ -25,11 +25,11 @@ To run this game, you'll need to have Java installed on your machine. Follow the
    
 3. Compile the Java code:
    ```bash
-   javac snake.java
+   javac *.java
 
 4. Run the game;
     ```bash
-   java sanke
+   java Main
    
 ## Usage
 After starting the game, use the arrow keys to control the direction of the snake. Eat as many pieces of food as possible to increase your score. Avoid colliding with the walls or the snake itself.
