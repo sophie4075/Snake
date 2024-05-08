@@ -17,19 +17,19 @@ To run this game, you'll need to have Java installed on your machine. Follow the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/sophie4075/snake.git
    
 2. Navigate to the cloned directory:
    ```bash
-   cd snake-game
+   cd snake
    
 3. Compile the Java code:
    ```bash
-   javac SnakeGame.java
+   javac snake.java
 
 4. Run the game;
     ```bash
-   java SnakeGame
+   java sanke
    
 ## Usage
 After starting the game, use the arrow keys to control the direction of the snake. Eat as many pieces of food as possible to increase your score. Avoid colliding with the walls or the snake itself.
