@@ -12,4 +12,5 @@ Have a little sneak peak:
 
 Music Credits <3 :
 Start/Game Over Menu: 8 Bit Nostalgia - by David Renda via https://www.fesliyanstudios.com/
+Game Scene: Arcade Kid - by David Renda via https://www.fesliyanstudios.com/
 Pause Menu: Local Forecast – Elevator by Kevin MacLeod via https://www.fesliyanstudios.com/
