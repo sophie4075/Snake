@@ -21,7 +21,7 @@ To run this game, you'll need to have Java installed on your machine. Follow the
    
 2. Navigate to the cloned directory:
    ```bash
-   gcd snake-game
+   cd snake-game
    
 3. Compile the Java code:
    ```bash
