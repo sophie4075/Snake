@@ -30,10 +30,8 @@ To run this game, you'll need to have Java installed on your machine. Follow the
 4. Run the game;
     ```bash
    java SnakeGame
-
-
    
-Usage
+## Usage
 After starting the game, use the arrow keys to control the direction of the snake. Eat as many pieces of food as possible to increase your score. Avoid colliding with the walls or the snake itself.
 
 <img width="796" alt="image" src="https://github.com/sophie4075/Snake/assets/114300675/04e54e3b-b320-433a-a33c-de0ae92719ee">
